@@ -1,0 +1,4 @@
+#+title: ensor: A deep learning framework for Emacs Lisp
+#+author: DonjuanPlatinum
+#+email: donplat@barrensea.org
+#+language: en
